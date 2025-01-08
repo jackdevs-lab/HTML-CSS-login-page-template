@@ -103,7 +103,7 @@ a:hover {
 
 .social-login ul li a {
   background-color: #56385a;
-  border-radius: 3px;
+  border-radius: 13px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -207,7 +207,7 @@ li.fb a::before {
   font-size: 16px;
   background: rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 3px;
+  border-radius: 13px;
   margin-bottom: 15px;
   -webkit-transition: background 0.3s;
   transition: background 0.3s;
